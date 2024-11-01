@@ -1,0 +1,23 @@
+{
+  "name": "nodejsasfullstack",
+  "version": "1.0.0",
+  "description": "learn and grow",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learn",
+    "full-stack",
+    "reactjs",
+    "nodejs"
+  ],
+  "author": "ashok singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
